@@ -11,12 +11,15 @@ which can provide a more convenient and secure way for donors to contribute, whi
 FLOW CHART : 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f5f8a097-575b-4d2b-9cae-71268deda937)
 
+
 GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/2a607b99-a81b-4303-90ea-50596844d3c1)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/d2cbb37e-9df9-4043-b78d-51e107ec5cf2)
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/b7aa30f8-f04d-4798-8bcd-31acbac2b381)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/457c3895-079b-4d99-984f-4e8251de6ef9)
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/565623bc-122e-4c8c-a84e-7e8f8280250f)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/c563e580-b1d9-4365-ab87-7a6e9495b448)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/59d2ff82-d31d-4aad-8b56-f93082847fc3)
