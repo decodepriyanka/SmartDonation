@@ -25,10 +25,12 @@ GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/565623bc-122e-4c8c-a84e-7e8f8280250f)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/c563e580-b1d9-4365-ab87-7a6e9495b448)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/da4aa07f-e543-476e-bd03-1f08a06ee263)
 
 
 
 CONCLUSION : 
+
 In comparison, when we compare ourself with other donation softwares such as A and B, we have a configurable donation items section but they have a limited charity option. That's why we have a wide range of items that can be donated when compared with other donation softwares who are mostly focused on the donation based on money or foods. 
 Drawback of our software is that we have not yet configured a donation system for blood and cash, which we have planned to add in our software in future. We will
 We will also be adding campaigns for green environments and awareness about other environmental issues.
