@@ -8,8 +8,11 @@ a location or send a cheque through the mail, which can be inconvenient and time
 as they may prefer a more convenient and accessible way to make a donation. This project aims to solve this problem by turning to online donation systems,
 which can provide a more convenient and secure way for donors to contribute, while also allowing for easier tracking and reporting of donations.
 
+
 FLOW CHART : 
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f5f8a097-575b-4d2b-9cae-71268deda937)
+
 
 
 GLIMPSE OF SMART DONATION SYSTEM :
@@ -22,6 +25,7 @@ GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/565623bc-122e-4c8c-a84e-7e8f8280250f)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/c563e580-b1d9-4365-ab87-7a6e9495b448)
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/59d2ff82-d31d-4aad-8b56-f93082847fc3)
 
 CONCLUSION : 
