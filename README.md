@@ -12,6 +12,7 @@ FLOW CHART :
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f5f8a097-575b-4d2b-9cae-71268deda937)
 
 GLIMPSE OF SMART DONATION SYSTEM :
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/2a607b99-a81b-4303-90ea-50596844d3c1)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/d2cbb37e-9df9-4043-b78d-51e107ec5cf2)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/b7aa30f8-f04d-4798-8bcd-31acbac2b381)
