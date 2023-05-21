@@ -41,10 +41,17 @@ GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/b7aa30f8-f04d-4798-8bcd-31acbac2b381)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/457c3895-079b-4d99-984f-4e8251de6ef9)
+![WhatsApp Image 2023-05-21 at 2 14 26 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/19a2af54-15ed-41c7-885f-b1ca48686235)
 
-![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/565623bc-122e-4c8c-a84e-7e8f8280250f)
-![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/c563e580-b1d9-4365-ab87-7a6e9495b448)
+![WhatsApp Image 2023-05-21 at 2 14 25 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/6f1c4a8d-bf7d-4cda-81a8-327c445aaa9d)
+![WhatsApp Image 2023-05-21 at 2 14 25 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/521fa4f6-391b-4983-aac6-8e027d3ede34)
+![WhatsApp Image 2023-05-21 at 2 14 26 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f93f234c-34ee-40b0-9997-b73856d7cdf2)
+
+![WhatsApp Image 2023-05-21 at 2 14 26 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/a4326132-657b-43f6-85fc-07e270405233)
+
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/da4aa07f-e543-476e-bd03-1f08a06ee263)
+![WhatsApp Image 2023-05-21 at 2 14 25 PM (2)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/7dc72e5e-6813-42f8-9382-e89b14e42b01)
 
 
 
