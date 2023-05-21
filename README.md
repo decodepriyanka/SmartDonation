@@ -31,6 +31,12 @@ FLOW CHART :
 GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/2a607b99-a81b-4303-90ea-50596844d3c1)
+
+![WhatsApp Image 2023-05-09 at 4 13 46 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/11d7c2a0-e363-41eb-9be6-30aa5a12dd7c)
+
+![WhatsApp Image 2023-05-21 at 2 15 41 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/0e129cb8-a7bc-46ff-96a8-6bd3734a8ffb)
+
+
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/d2cbb37e-9df9-4043-b78d-51e107ec5cf2)
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/b7aa30f8-f04d-4798-8bcd-31acbac2b381)
