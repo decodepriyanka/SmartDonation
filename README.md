@@ -32,26 +32,26 @@ GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/2a607b99-a81b-4303-90ea-50596844d3c1)
 
-![WhatsApp Image 2023-05-09 at 4 13 46 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/11d7c2a0-e363-41eb-9be6-30aa5a12dd7c)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/11d7c2a0-e363-41eb-9be6-30aa5a12dd7c)
 
-![WhatsApp Image 2023-05-21 at 2 15 41 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/0e129cb8-a7bc-46ff-96a8-6bd3734a8ffb)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/0e129cb8-a7bc-46ff-96a8-6bd3734a8ffb)
 
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/d2cbb37e-9df9-4043-b78d-51e107ec5cf2)
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/b7aa30f8-f04d-4798-8bcd-31acbac2b381)
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/457c3895-079b-4d99-984f-4e8251de6ef9)
-![WhatsApp Image 2023-05-21 at 2 14 26 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/19a2af54-15ed-41c7-885f-b1ca48686235)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/19a2af54-15ed-41c7-885f-b1ca48686235)
 
-![WhatsApp Image 2023-05-21 at 2 14 25 PM](https://github.com/decodepriyanka/SmartDonation/assets/64683009/6f1c4a8d-bf7d-4cda-81a8-327c445aaa9d)
-![WhatsApp Image 2023-05-21 at 2 14 25 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/521fa4f6-391b-4983-aac6-8e027d3ede34)
-![WhatsApp Image 2023-05-21 at 2 14 26 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f93f234c-34ee-40b0-9997-b73856d7cdf2)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/6f1c4a8d-bf7d-4cda-81a8-327c445aaa9d)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/521fa4f6-391b-4983-aac6-8e027d3ede34)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/f93f234c-34ee-40b0-9997-b73856d7cdf2)
 
-![WhatsApp Image 2023-05-21 at 2 14 26 PM (1)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/a4326132-657b-43f6-85fc-07e270405233)
+
 
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/da4aa07f-e543-476e-bd03-1f08a06ee263)
-![WhatsApp Image 2023-05-21 at 2 14 25 PM (2)](https://github.com/decodepriyanka/SmartDonation/assets/64683009/7dc72e5e-6813-42f8-9382-e89b14e42b01)
+![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/7dc72e5e-6813-42f8-9382-e89b14e42b01)
 
 
 
