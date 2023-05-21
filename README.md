@@ -1,7 +1,7 @@
 # SmartDonation System 
 Introduction :
 The definition of this app "Spread A Smile".The basic concept, which is emerged out from this project is to provide necessary items to the one in need.
-This is an Android web based application that provides a platform for donation of useful items (food, clothes, etc.) to the nearest NGO. Many people,
+This is an Android application that provides a platform for donation of useful items (food, clothes, etc.) to the nearest NGO. Many people,
 institutes wish to donate things to needy organizations. 
 The main problem faced by donors in offline donation systems is the lack of convenience. Offline donation systems require donors to physically visit
 a location or send a cheque through the mail, which can be inconvenient and time-consuming. This can discourage potential donors from contributing, 
