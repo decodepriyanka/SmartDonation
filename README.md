@@ -15,6 +15,17 @@ FLOW CHART :
 
 
 
+1.Developed a React Native mobile application for NGO registration and donation management.
+2.Implemented user registration and authentication functionality using express js and saving user collection in mongo db.
+3.Utilized React Navigation to create a smooth and intuitive user interface with navigational flows.
+4.Implemented notification functionality to notify NGOs in real-time using long polling.
+5.Integrated express and mondo db service to store and retrieve user and NGO data securely.
+5.We are using Redux for state management,ensuring a centralized and scalable architecture.
+6.We are using cloudinary as a cloud to store image and give url for that image and after getting url we are saving that url in our database
+7.Using node mailer to send mail to registered ngo after succeful donation
+8.We have added a functionalty to contact to ngo via email, for this we are using expo mail composer using that we can contact to ngo or ngo can contact to user
+
+
 GLIMPSE OF SMART DONATION SYSTEM :
 
 ![image](https://github.com/decodepriyanka/SmartDonation/assets/64683009/2a607b99-a81b-4303-90ea-50596844d3c1)
